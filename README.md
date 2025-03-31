@@ -1,0 +1,2 @@
+# HastaneOtomasyonu
+Veritabanı Sistemleri
